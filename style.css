@@ -1,0 +1,38 @@
+Header, footer {
+    background-color: #C75B39;
+    text-align: center;
+    clear: both;
+    height: 100px;
+    color: white;
+    padding-top: 20px;
+}
+
+#menu {
+    background-color:  #FF8A65;
+    text-align: left;
+    width: 25%;
+    float: left;
+    height: 500px;
+}
+
+#body {
+    background-color: snow;
+    text-align: center;
+    width: 75%;
+    float: left;
+    height: 500px;
+}
+
+main {
+    clear: both;
+}
+
+img {
+    width: 250px;
+    filter: drop-shadow(8px 8px 16px);
+    padding: 10px;
+}
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
