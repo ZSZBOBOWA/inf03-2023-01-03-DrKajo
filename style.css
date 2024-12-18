@@ -33,6 +33,10 @@ img {
     padding: 10px;
 }
 
+ul, ol {
+    color: snow;
+}
+
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
